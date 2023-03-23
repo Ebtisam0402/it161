@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-  <title>Ebtisam Abdelkerim: Contact Form</title>
+  <title>Eritrean Muslim Association of Seattle: Contact Form</title>
   <meta name="robots" content="noindex,nofollow" />
   <meta name="viewport" content="width=device-width" />
   <meta charset="utf-8" />
@@ -10,17 +10,16 @@
  </head>
  <body>
      <header>
-     <h1>Ebtisam Abdelkerim: Contact Form</h1>
+     <h1>Eritrean Muslim Association of Seattle: Contact Form</h1>
      <nav class="topnav" id="myTopnav">
-       <a href="index.html">Welcome</a>
-       <a href="elements.html">HTML Elements</a>
-       <a href="aia.html">AIA</a>
-       <a href="big/index.html">BIG</a>
-       <a href="http://w3schools.com" target="_blank">W3 Schools</a>
-       <a href="https://www.linkedin.com/learning/" target="_blank">LinkedIn Learning</a>
-       <a href="flowchart.html">Flowchart</a>
-       <a href="fp/index.html">Final Project</a>
-       <a href="contact.php" class="active">Contact Ebtisam</a>
+     <a href="index.html" >Home</a>
+       <a href="about.html">About</a>
+       <a href="services.html" >Services</a>
+       <a href="events.html" >Events</a>
+       <a href="programs.html" >Programs</a>
+       <a href="donations.html" target="_blank">Donations</a>
+       <a href="membership.html">Membership</a>
+       <a href="contact.php" class="active">Contact EMANA</a>
        <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
      </nav>
      </header>
@@ -50,6 +49,7 @@
      <footer>
       <p><small>&copy; 2023 by 
           <a href="contact.php">Ebtisam Abdelkerim</a>, All Rights Reserved ~ 
+          <a href="disclaimer.html">Privacy Notice</a> ~
           <a id="html-checker" href="#">Check HTML</a> ~ 
           <a id="css-checker" href="#">Check CSS</a></small>
      </p>
